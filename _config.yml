@@ -22,8 +22,8 @@ title: Anthony Zhou
 email: anthonyzhou@berkeley.edu
 description: >- # this means to ignore newlines until "baseurl:"
   A personal website where I post work that I've done or anything really.
-baseurl: "/about" # the subpath of your site, e.g. /blog
-url: "anthonyzhou-1.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  anthonyzhou-1
 
 # Build settings
